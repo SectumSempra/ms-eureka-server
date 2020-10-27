@@ -1,10 +1,4 @@
 server:
   port: 20003
 ###############################    
-eureka:
-  client:
-    register-with-eureka: false
-    fetch-registry: false
-    service-url:
-      defaultZone: http://localhost:20003/eureka 
 
